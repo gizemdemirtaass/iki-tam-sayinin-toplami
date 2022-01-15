@@ -1,0 +1,1 @@
+# iki-tam-sayinin-toplami
